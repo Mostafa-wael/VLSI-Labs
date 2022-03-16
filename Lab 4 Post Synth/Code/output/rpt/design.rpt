@@ -1,0 +1,36 @@
+Report Physical info: 
+------------------------+---------------------------+-----------+------------
+                        |                           |Area (squm)|Leakage (uW)
+------------------------+---------------------------+-----------+------------
+Design Name             |myRippleAdder_withRegisters|           |            
+  Total Instances       |                        171|        372|       7.324
+    Macros              |                          0|          0|       0.000
+    Pads                |                          0|          0|       0.000
+    Phys                |                          0|          0|       0.000
+    Blackboxes          |                          0|          0|       0.000
+    Cells               |                        171|        372|       7.324
+      Buffers           |                          0|          0|       0.000
+      Inverters         |                         17|          9|       0.244
+      Clock-Gates       |                          2|          8|       0.118
+      Combinational     |                        102|        129|       3.006
+      Latches           |                          0|          0|       0.000
+      FlipFlops         |                         50|        226|       3.956
+       Single-Bit FF    |                         50|        226|       3.956
+       Multi-Bit FF     |                          0|          0|       0.000
+       Clock-Gated      |                         49|           |            
+       Bits             |                         50|        226|       3.956
+         Load-Enabled   |                          0|           |            
+         Clock-Gated    |                         49|           |            
+  Tristate Pin Count    |                          0|           |            
+Physical Info           |Placed                     |           |            
+  Chip Size (mm x mm)   |0.085 x 0.085              |       7207|            
+  Fixed Cell Area       |                           |          0|            
+    Phys Only           |                          0|          0|            
+  Placeable Area        |                           |        592|            
+  Movable Cell Area     |                           |        372|            
+  Utilization (%)       |                         62|           |            
+  Chip Utilization (%)  |                         62|           |            
+  Total Wire Length (mm)|                      2.293|           |            
+  Longest Wire (mm)     |                      0.045|           |            
+  Average Wire (mm)     |                      0.043|           |            
+------------------------+---------------------------+-----------+------------

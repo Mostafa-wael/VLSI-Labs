@@ -1,0 +1,6 @@
+1-VLSI20 folder (size= 15-17 GB) contains the VM image with all tools.
+2-Use VM player or VM workstation to run the VM image.
+3-All tools are installed in Home/Installation directory.
+4-In ".bashrc file" can update to add path of all programs to run directly from terminal.
+5-To activate the license's server use the cmd "lmgrd" in the terminal.
+6-To deactivate the license's server use the cmd "lmdown" in the terminal.

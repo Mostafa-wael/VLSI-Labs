@@ -1,0 +1,36 @@
+{D:/Education/3rd year/First Semester/VLSI/Labs/Lab 1/Lab_1_Requirement/multiplier_and_gate.v} {1 {vlog -work work -stats=none {D:/Education/3rd year/First Semester/VLSI/Labs/Lab 1/Lab_1_Requirement/multiplier_and_gate.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module multiplier_and_gate
+
+Top level modules:
+	multiplier_and_gate
+
+} {} {}} {D:/Education/3rd year/First Semester/VLSI/Labs/Lab 1/Lab_1_Requirement/four_bit_adder.v} {1 {vlog -work work -stats=none {D:/Education/3rd year/First Semester/VLSI/Labs/Lab 1/Lab_1_Requirement/four_bit_adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module four_bit_adder
+
+Top level modules:
+	four_bit_adder
+
+} {} {}} {D:/Education/3rd year/First Semester/VLSI/Labs/Lab 1/Lab_1_Requirement/full_adder.v} {1 {vlog -work work -stats=none {D:/Education/3rd year/First Semester/VLSI/Labs/Lab 1/Lab_1_Requirement/full_adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module full_adder
+
+Top level modules:
+	full_adder
+
+} {} {}} {D:/Education/3rd year/First Semester/VLSI/Labs/Lab 1/Lab_1_Requirement/half_adder.v} {1 {vlog -work work -stats=none {D:/Education/3rd year/First Semester/VLSI/Labs/Lab 1/Lab_1_Requirement/half_adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module half_adder
+
+Top level modules:
+	half_adder
+
+} {} {}} {D:/Education/3rd year/First Semester/VLSI/Labs/Lab 1/Lab_1_Requirement/multiplier.v} {1 {vlog -work work -stats=none {D:/Education/3rd year/First Semester/VLSI/Labs/Lab 1/Lab_1_Requirement/multiplier.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module multiplier
+
+Top level modules:
+	multiplier
+
+} {} {}}
